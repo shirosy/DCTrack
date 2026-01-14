@@ -2,4 +2,6 @@
 
 Official implementation of **DCTrack**.
 
-🚧 The code is under preparation and will be released soon.
+The paper is currently under review.  
+The code will be organized and publicly released upon acceptance.
+
